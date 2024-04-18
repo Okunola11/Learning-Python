@@ -11,3 +11,4 @@ print('')
 # Ternary Operator
 print('Right on!') if meaning < 10 else print('Not today')
 print(math.pi)
+print(math.tan(90))
